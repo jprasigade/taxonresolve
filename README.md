@@ -45,6 +45,8 @@ If the scripts provided do not run, you may need to give execution rights, for e
 ## Dependencies
 This code runs in Python3 and requires NumPy's library.
 
+Dataset was compressed using 7zip, download here https://www.7-zip.org/ or using to command line `sudo apt-get install p7zip*` to analyze the data using example_run.sh.
+
 ## Run examples
 
 ### 1. Running Blast taxon resolver code
