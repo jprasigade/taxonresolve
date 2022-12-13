@@ -82,7 +82,8 @@ You can first try your hand on a test dataset using this command :
 ## Test dataset
 The dataset was obtained from the MACOTRA project work package 4, consisting of 16 patients. Each patient's nasal microbiota was sampled at 5 different time points to evaluate the effect of antibiotic therapy on bacterial diversity and success of *Staphylococcus aureus* decolonization.
 
-Publication on the dataset and its analysis is underway.
+Publication on the dataset and its analysis can be found here : https://www.nature.com/articles/s41598-022-21453-4
+
 ## Contributors
 * Anaïs Barray anais.barray@gmail.com (Initiator, coding, testing, documentation, evaluation)
 * Jean-Philippe Rasigade jean-philippe.rasigade@univ-lyon1.fr (Feature suggestions, evaluation)
